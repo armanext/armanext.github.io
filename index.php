@@ -20,24 +20,24 @@
                                                     <a href="/posts/2.php" class="project title-is--visible title-is--on-thumbnail title-is--dark thumbnail-is--large thumbnail-is--large title-align--middle title-justify--left">
                                                         <div class="project-name">
                                                             <div class="ufo--project-title-container">
-                                                                <div class="project-title text-white">Dood Food</div>
+                                                                <div class="project-title text-white">Audiobook</div>
                                                             </div>
                                                             <div class="ufo--project-title-container">
-                                                                <div class="project-subtitle text-white">An application for ordering food online</div>
+                                                                <div class="project-subtitle text-white">Listen to audiobooks</div>
                                                             </div>
                                                         </div>
                                                         <div class="image-container " style="">
-                                                            <img src="/files/bg1.jpg" class="project-thumbnail">
+                                                            <img src="/files/bg2.jpg" class="project-thumbnail">
                                                         </div>
                                                     </a>
                                                     <!-- 1 -->
                                                     <a href="/posts/1.php" class="project title-is--visible title-is--on-thumbnail title-is--dark thumbnail-is--large thumbnail-is--large title-align--middle title-justify--left">
                                                         <div class="project-name">
                                                             <div class="ufo--project-title-container">
-                                                                <div class="project-title text-white">Dood Food2</div>
+                                                                <div class="project-title text-white">Dood Food</div>
                                                             </div>
                                                             <div class="ufo--project-title-container">
-                                                                <div class="project-subtitle text-white">An application for ordering food online3</div>
+                                                                <div class="project-subtitle text-white">An application for ordering food online</div>
                                                             </div>
                                                         </div>
                                                         <div class="image-container " style="">

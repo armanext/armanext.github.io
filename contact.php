@@ -25,7 +25,7 @@ $arman=true;
 <div class="title h4">
 Hi Arman,
 </div>
-<input type="hidden" name="toEmail" value="arman.golchoubian@yahoo.com">
+<input type="hidden" name="toEmail" value="golchoubian.design@gmail.com">
 <textarea name="message" type="text" class="form-handler" required="" placeholder="Write your message here…"></textarea>
 <div class="subtitle h4">
 Best,
@@ -38,7 +38,7 @@ Best,
 <button type="submit" class="btn btn--cta solid square">Send email</button>
 </div>
 <div class="um p1">
-or find me at <a href="mailto:arman.golchoubian@yahoo.com">arman.golchoubian@yahoo.com</a>
+or find me at <a href="mailto:golchoubian.design@gmail.com">golchoubian.design@gmail.com</a>
 </div>
 </form>
 <div class="ufo--form-status-message"></div>

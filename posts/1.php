@@ -125,6 +125,7 @@
     </section>
 
 
+
     <section id="section-4" class="ufo--case-study-section p_section p_section--header "
         style="background-color: #fd7646;   ">
 
@@ -281,23 +282,29 @@
                                             </div>
                                 </section>
 
+                        
 
-                                <section id="section-4" class="ufo--case-study-section p_section p_section--header " style="background-color: #fd7646;   ">
 
-                                    <div class="ufo--p-container-fluid">
-                                        <div class="image-container image-container--fluid ">
-                                        </div>
-                                    </div>
-                                    <div class="text-container">
-                                        <div class="ufo--basic-text-area">
-                                            <div class="h2" style="color: white">
-                                                2. Insight<br><br>It allows us to create a clear path forward for our
-                                                clients by incorporating a deep understanding of their users’ needs.
-                                            </div>
-                                        </div>
-                                    </div>
+                                <div class="ufo--case-study-container project">
 
-                                </section>
+
+
+<section id="section-4" class="ufo--case-study-section p_section p_section--header "
+    style="background-color: #fd7646;   ">
+
+    <div class="ufo--p-container-fluid">
+        <div class="image-container image-container--fluid ">
+        </div>
+    </div>
+    <div class="text-container">
+        <div class="ufo--basic-text-area">
+            <div class="h2" style="color: white">
+                2. Insight<br><br>It allows us to create a clear path forward for our clients by incorporating a deep understanding of their users’ needs.
+            </div>
+        </div>
+    </div>
+
+</section>
 
 
 
@@ -348,7 +355,7 @@
 
                                 <div class="ufo--p-container-fluid">
                                     <div class="text-container">
-                                        <h3 style="color: #fd7646">User journey map</h3>
+                                        <h3 style="color: #fd7646">User Journey Map</h3>
                                         <p>Mapping Alireza’s app user journey revealed how helpful it would be for users
                                             to have access to a dedicated farid’s app</p>
                                     </div>
@@ -407,23 +414,28 @@
 
 
 
-                            <section id="section-4" class="ufo--case-study-section p_section p_section--header "
-                                style="background-color: #fd7646;   ">
+     
+                            <div class="ufo--case-study-container project">
 
-                                <div class="ufo--p-container-fluid">
-                                    <div class="image-container image-container--fluid ">
-                                    </div>
-                                </div>
-                                <div class="text-container">
-                                    <div class="ufo--basic-text-area">
-                                        <div class="h2" style="color: white">
-                                            3. Design<br><br>Crat designs that deliver value & guide users to their
-                                            goals
-                                        </div>
-                                    </div>
-                                </div>
 
-                            </section>
+
+<section id="section-4" class="ufo--case-study-section p_section p_section--header "
+    style="background-color: #fd7646;   ">
+
+    <div class="ufo--p-container-fluid">
+        <div class="image-container image-container--fluid ">
+        </div>
+    </div>
+    <div class="text-container">
+        <div class="ufo--basic-text-area">
+            <div class="h2" style="color: white">
+            3. Design
+<br><br>Design that provide value and guide users to their goals
+            </div>
+        </div>
+    </div>
+
+</section>
 
 
                             <section id="section-11" class="ufo--case-study-section p_section p_section--text"
@@ -549,6 +561,60 @@
                                             </div>
                                         </div>
                             </section>
+
+
+<br>
+<br>
+
+
+                            <section id="section-4" class="ufo--case-study-section p_section p_section--header " style="background-color: #fd7646;   ">
+
+                                <div class="ufo--p-container-fluid">
+                                    <div class="image-container image-container--fluid ">
+                                    </div>
+                                </div>
+                                <div class="text-container">
+                                    <div class="ufo--basic-text-area">
+                                        <div class="h2" style="color: white">
+                                            4. Feedback<br><br>The last step in the design process to validate the product.
+Experiments designed to confirm or reject suggested solutions.
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </section>
+
+
+
+
+        
+
+
+
+
+                            <section id="section-5" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 140px;  padding-bottom: 0px;">
+
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #fd7646">User Testing</h3>
+                                            <p>After prototype preparation, interactive experiments were performed. User test participants had no major problems with the tasks at hand and were able to perform all tasks quickly.
+                                            <p>5 users 5 tasks</p>
+                                            <p>The user tasks requested to perform are:</p>
+                                            <p>• Choose your favorite food and place an order.
+</p>
+                                            <p>• Examine the details of each food.
+</p>
+                                            <p>• Check your order before payment.
+</p>
+                                            <P>• Register your location.</p>
+                                            <P>• Check the latest books listed.</p>
+                                            <P>Summary of results: 100% success - Rate: 5.5</p>
+                                        </div>
+                                    </div>
+                                </section>
+
+
                         </div>
                     </section>
                 </div>

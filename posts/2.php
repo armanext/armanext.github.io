@@ -2,12 +2,12 @@
     $arman=true;
     require_once '../header.php';
 ?>
-
+ 
 <div class="ufo--case-study-container project">
 
 
     <section id="section-0" class="ufo--case-study-section p_section p_section--header-main  "
-        style="background-image: url(/files/dood-food-golchoubian.jpg);  ">
+        style="background-image: url(/files/banner-audiobook.jpg);  ">
 
         <div class="ufo--p-container-fluid ">
 
@@ -26,8 +26,8 @@
             <div class="ufo--hero-content-grid   ">
 
                 <div class="text-container  v-top">
-                    <h1>Dood Food</h1>
-                    <h2>An application for ordering food online</h2>
+                    <h1>Playbook</h1>
+                    <h2>Listen to audiobooks</h2>
                 </div>
 
 
@@ -41,18 +41,16 @@
         <div class="ufo--p-container-fluid">
             <div class="ufo--columns ufo--columns-2">
                 <div class="ufo--column">
-                    <h4 style="color: #fd7646">The product</h4>
-                    <p>This application is for ordering all kinds of fast food and various foods along with drinks and
-                        desserts.
-                        With the possibility of delivery at the place of the customer</p>
-                    <h4 style="color: #fd7646">Project duration</h4>
-                    <p>January 2019 to March 2019</p>
+                    <h4 style="color: #2EB6CE">The product</h4>
+                    <p>This application is for reading and listening to audiobooks, books in different genres and good facilities.</p>
+                    <h4 style="color: #2EB6CE">Project duration</h4>
+                    <p>June 2021 to August 2021</p>
                 </div>
 
                 <div class="ufo--column">
-                    <h4 style="color: #fd7646">My role</h4>
+                    <h4 style="color: #2EB6CE">My role</h4>
                     <p>UX/UI designer designing an APP from conception to delivery</p>
-                    <h4 style="color: #fd7646">Responsibilities
+                    <h4 style="color: #2EB6CE">Responsibilities
                     </h4>
                     <p>Conducting interviews, paper and digital wireframing, low and high-fidelity, prototyping,
                         conducting usability studies, accounting for accessibility, iterating on designs, determining
@@ -70,11 +68,11 @@
         <div class="ufo--p-container-fluid">
             <div class="ufo--columns ufo--columns-2">
                 <div class="ufo--column">
-                    <h4 style="color: #fd7646">Research Goals</h4>
-                    <p>• Determine what features people want in a diet.</p>
-                    <p>• Understand people’s tastes to create a menu.</p>
-                    <p>• Find out how much consumers are willing to pay.</p>
-                    <p>• Find out what motivates people to use a food ordering app.</p>
+                    <h4 style="color: #2EB6CE">Research Goals</h4>
+                    <p>• Identify what people need from an audiobook app.</p>
+                    <p>• Understand the tastes of different people.</p>
+                    <p>• Find out what age groups consumers are.</p>
+                    <p>• Find out what is most important to users.</p>
                     <p>• Determine what motivates people to use these programs.</p>
                     <p>• Find out what can discourage the user.</p>
 
@@ -83,9 +81,8 @@
                 </div>
 
                 <div class="ufo--column">
-                    <h4 style="color: #fd7646">The problem</h4>
-                    <p>As life becomes busier, there is less time to prepare food and people need to have access to
-                        their favorite foods in different places.</ </div>
+                    <h4 style="color: #2EB6CE">The problem</h4>
+                    <p>With the advancement of technology and the acceleration of lives, the opportunity for people to read books has diminished.</ </div>
                 </div>
             </div>
     </section>
@@ -114,7 +111,7 @@
                 <div class="media-box  ">
 
                     <div class="image">
-                        <img loading="lazy" src="/files/design procces.jpg" data-zoom="" alt="Notch" width="2412"
+                        <img loading="lazy" src="/files/designprocess-audiobook.jpg" data-zoom="" alt="Notch" width="2412"
                             height="1260" class="medium-zoom-image">
                     </div>
 
@@ -126,7 +123,7 @@
 
 
     <section id="section-4" class="ufo--case-study-section p_section p_section--header "
-        style="background-color: #fd7646;   ">
+        style="background-color: #2EB6CE;   ">
 
         <div class="ufo--p-container-fluid">
             <div class="image-container image-container--fluid ">
@@ -148,7 +145,7 @@
 
         <div class="ufo--p-container-fluid">
             <div class="text-container">
-                <h3 style="color: #fd7646">UX Audit</h3>
+                <h3 style="color: #2EB6CE">UX Audit</h3>
                 <p>I typically start my projects with a UX Audit. It’s an exercise that allows me to highlight usability
                     issues, identifying areas for improvement. I also learn a lot about how the product works and its
                     interaction with the user from the UX Audit.</p>
@@ -161,7 +158,7 @@
 
                 <div class="ufo--p-container-fluid">
                     <div class="text-container">
-                        <h3 style="color: #fd7646">Stakeholder Interviews</h3>
+                        <h3 style="color: #2EB6CE">Stakeholder Interviews</h3>
                         <p>These are exploratory conversations with the most relevant stakeholders and product users.
                             They provide us with the background I need to understand the context of the product’s
                             market. These interviews point me in the right direction in terms of prioritizing tasks and
@@ -176,7 +173,7 @@
 
                         <div class="ufo--p-container-fluid">
                             <div class="text-container">
-                                <h3 style="color: #fd7646">Secondary Research</h3>
+                                <h3 style="color: #2EB6CE">Secondary Research</h3>
                                 <p>Reviewing all relevant literature about the project’s topic enhances our team’s
                                     understanding of the problem and “gets me up to speed.” This requires a few days of
                                     good old university type of research, reading books, white-papers, reports, business
@@ -191,11 +188,8 @@
 
                                 <div class="ufo--p-container-fluid">
                                     <div class="text-container">
-                                        <h3 style="color: #fd7646">Survey</h3>
-                                        <p>To better understand the needs of users, we sent a survey to users aged 15 to
-                                            70 to get more insight into how much users care about ordering food online,
-                                            how much they have had a similar experience, what are the painful points and
-                                            ...</p>
+                                        <h3 style="color: #2EB6CE">Survey</h3>
+                                        <p>We sent surveys to 15 to 60-year-olds to get more insight into how much users are interested in listening to audiobooks, what genres they are interested in, how much similar experience they have, what the pain points are, and so on.</p>
                                     </div>
                                 </div>
 
@@ -205,11 +199,9 @@
 
                                     <div class="ufo--p-container-fluid">
                                         <div class="text-container">
-                                            <h3 style="color: #fd7646">Interviews</h3>
-                                            <p>We conducted 7 interviews with people with different occupations
-                                                (student, housewife, employee,
-                                                freelancer, etc.) and completely different ages to obtain in-depth
-                                                qualitative responses to key aspects of the announcement</p>
+                                            <h3 style="color: #2EB6CE">Interviews</h3>
+                                            <p>We have 5 interviews with people with different occupations (student, housewife, employee,
+Retired) and completely different ages to receive in-depth qualitative responses to key aspects of the declaration</p>
                                         </div>
                                     </div>
 
@@ -239,27 +231,17 @@
 
                                     <div class="ufo--p-container-fluid">
                                         <div class="text-container">
-                                            <h3 style="color: #fd7646">Summary</h3>
-                                            <p>I did surveys and interviews and created empathy maps so I could
-                                                understand the users I design for and their needs.
-                                                Our user group was different, mostly people who did not have enough time
-                                                to cook
-                                                But further research has shown that it is not just the timing of
-                                                people’s problems, but also the
-                                                preparation of raw materials, as well as sudden events that can occur
-                                                many times or challenges that made it difficult to obtain food for
-                                                cooking.
-                                            <p>• Most who have used a meal delivery service in the past started because
-                                                of a coupon or other incentive.</p>
-                                            <p>• Most tried the service but no longer use it.</p>
-                                            <p>• Incentives do not work to keep customers. Just offer the best service
-                                                at a decent price to begin with.</p>
-                                            <p>• People like variety and the flexibility to choose according to their
-                                                diet needs/restrictions.</p>
-                                            <p>• Quality of ingredients was of high importance.</p>
-                                            <P>• Counting calories and keeping track of macros was especially important
-                                                to the success of keeping a
-                                                healthy diet.</p>
+                                            <h3 style="color: #2EB6CE">Summary</h3>
+                                            <p>I did surveys and interviews and created empathy maps so I could understand the users I design for and their needs.Our user groups were of different ages.
+                                            <p>• Further research has shown that people need to use audiobooks in different genres and in different situations.</p>
+                                            <p>• Most people were interested in having categories to make it easier to search for their interests.</p>
+                                            <p>• Most people needed to bookmark their interests.
+</p>
+                                            <p>• Many people needed to manage an audiobook player.
+</p>
+                                            <p>• It was important for people to know the timing of each book.
+</p>
+                                            <P>• Knowing the specifications of the book, such as the author and in some cases the narrator, was of particular importance to users.</p>
                                         </div>
                                     </div>
                                 </section>
@@ -274,7 +256,7 @@
                                             <div class="media-box  ">
 
                                                 <div class="image">
-                                                    <img loading="lazy" src="/files/pain-point.jpg" data-zoom=""
+                                                    <img loading="lazy" src="/files/pain-point-audiobook.jpg" data-zoom=""
                                                         alt="Snippet of secondary user research - analysing 26 freelancer interviews. Full table can be viewed in my Notion!"
                                                         width="2376" height="850" class="medium-zoom-image">
                                                 </div>
@@ -282,41 +264,56 @@
                                 </section>
 
 
-                                <section id="section-4" class="ufo--case-study-section p_section p_section--header " style="background-color: #fd7646;   ">
-
-                                    <div class="ufo--p-container-fluid">
-                                        <div class="image-container image-container--fluid ">
-                                        </div>
-                                    </div>
-                                    <div class="text-container">
-                                        <div class="ufo--basic-text-area">
-                                            <div class="h2" style="color: white">
-                                                2. Insight<br><br>It allows us to create a clear path forward for our
-                                                clients by incorporating a deep understanding of their users’ needs.
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </section>
 
 
 
 
-                                <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+
+
+
+
+
+
+
+
+
+
+
+
+                                <div class="ufo--case-study-container project">
+
+
+
+<section id="section-4" class="ufo--case-study-section p_section p_section--header "
+    style="background-color: #2EB6CE;   ">
+
+    <div class="ufo--p-container-fluid">
+        <div class="image-container image-container--fluid ">
+        </div>
+    </div>
+    <div class="text-container">
+        <div class="ufo--basic-text-area">
+            <div class="h2" style="color: white">
+                2. Insight<br><br>It allows us to create a clear path forward for our clients by incorporating a deep understanding of their users’ needs.
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+
+<section id="section-8" class="ufo--case-study-section p_section p_section--text"
                                     style="padding-top: 90px;  padding-bottom: 10px;">
 
                                     <div class="ufo--p-container-fluid">
                                         <div class="text-container">
-                                            <h3 style="color: #fd7646">Persona</h3>
-                                            <p>After talking to several people during the interview, I developed Farid,
-                                                my main persona. Farid is single and he lives with her friend. He is a
-                                                freelancer and works much time at different hours of the day. He wants
-                                                to eat better but doesn’t like the idea of having to meal plan. He likes
-                                                variety and flexibility. Farid is interested in various foods and drinks
-                                                and different ordering hours, Farid represents a group of people.
-                                                I also felt this was a good opportunity to map Farid’s persona and
-                                                journey through the product and log how he might feel at various points
-                                                during his experience to better understand.</p>
+                                            <h3 style="color: #2EB6CE">Persona</h3>
+                                            <p>With the data collected from Interviews and primary research, I created 3 different personas representing .These characters represent different types of users and represent a group of users.
+The personas helped me arrive at better solutions as they gave an in-depth understanding of the users’ goals, frustrations, and overall personalities.
+Arash is a teenager and prefers listening to books to reading them.
+Sarah is a married woman and employee who enjoys listening to audiobooks in her spare time.
+Farshad is a freelance programmer who listens to audiobooks while working.</p>
                                         </div>
                                     </div>
 
@@ -331,7 +328,30 @@
                                             <div class="media-box  ">
 
                                                 <div class="image">
-                                                    <img loading="lazy" src="/files/persona-farid.jpg" data-zoom=""
+                                                    <img loading="lazy" src="/files/persona-sara.jpg" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </section>
+
+<br>
+
+
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
+
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
+
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/persona-farshad.jpg" data-zoom=""
                                                         alt="Notch" width="2412" height="669" class="medium-zoom-image">
                                                 </div>
 
@@ -342,73 +362,331 @@
                                 </section>
 
 
-                            </section>
-                            <section id="section-11" class="ufo--case-study-section p_section p_section--text"
-                                style="padding-top: 90px;  padding-bottom: 40px;">
+                                <br>
 
-                                <div class="ufo--p-container-fluid">
-                                    <div class="text-container">
-                                        <h3 style="color: #fd7646">User journey map</h3>
-                                        <p>Mapping Alireza’s app user journey revealed how helpful it would be for users
-                                            to have access to a dedicated farid’s app</p>
+<section id="section-9"
+    class="ufo--case-study-section p_section p_section--media image "
+    style="padding-top: 0px; ">
+
+    <div class="ufo--p-container-fluid">
+        <div class="media-container image-container--fluid display-mode--grid  "
+            style="padding-top: 0; ">
+            <div class="media-box  ">
+
+                <div class="image">
+                    <img loading="lazy" src="/files/persona-arash.jpg" data-zoom=""
+                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</section>                   
+         </section>
+
+
+
+
+
+
+                            <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 90px;  padding-bottom: 10px;">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">User Journey Map</h3>
+                                            <p>The user journey map shows how the user is behaving and feeling at each step, and this helps the user to better understand in order to find the best solution.</p>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
+
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
+
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/user-journey-audiobook.png" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </section>
+
+
+
+
+
+
+
+
+
+
+
+                            <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 90px;  padding-bottom: 10px;">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">Ideation</h3>
+                                            <p>As a UX designer, I defined key functions, identified hopes and fears, and discussed and combined and framed the information architecture between user and company through various storytelling modes.
+I conducted workshops and sketching sessions with the team to map out the user flow.</p>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
+
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
+
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/ideation.png" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </section>
+                        </section>
+       
+
+
+
+
+<br>
+
+
+
+
+
+                        <section id="section-4" class="ufo--case-study-section p_section p_section--header "
+                            style="background-color: #2EB6CE;   ">
+
+                            <div class="ufo--p-container-fluid">
+                                <div class="image-container image-container--fluid ">
+                                </div>
+                            </div>
+                            <div class="text-container">
+                                <div class="ufo--basic-text-area">
+                                    <div class="h2" style="color: white">
+                                        3. Design<br><br>Design that provide value and guide users to their
+                                        goals
                                     </div>
                                 </div>
+                            </div>
 
-                            </section>
-                            <section id="section-12" class="ufo--case-study-section p_section p_section--media image "
-                                style=" ">
+                        </section>
 
-                                <div class="ufo--p-container-fluid">
-                                    <div class="media-container image-container--fluid display-mode--grid  " style=" ">
-                                        <div class="media-box  ">
 
-                                            <div class="image">
-                                                <img loading="lazy" src="/files/user-jurnery.png" data-zoom=""
-                                                    alt="Sorting freelancer insights, behaviours, and feedback in order to identify key user needs, patterns and core product features."
-                                                    width="2628" height="1521" class="medium-zoom-image">
-                                            </div>
+   
 
+
+
+                        <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 90px;  padding-bottom: 10px;">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">Sitemap</h3>
+                                            <p>I created a sitemap based on all the insights gained from users' pain points and user needs to determine what pages users need.</p>
                                         </div>
-                            </section>
-
-
-                            <section id="section-11" class="ufo--case-study-section p_section p_section--text"
-                                style="padding-top: 90px;  padding-bottom: 40px;">
-
-                                <div class="ufo--p-container-fluid">
-                                    <div class="text-container">
-                                        <h3 style="color: #fd7646">Ideation</h3>
-                                        <p>As a UX designer, I defined key functions, identified hopes and fears, and
-                                            discussed and combined and framed the information architecture between user
-                                            and company through various storytelling modes.
-                                            I conducted workshops and sketching sessions with the team to map out the
-                                            user flow and come up with a storyboard.</p>
                                     </div>
-                                </div>
+                                </section>
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
 
-                            </section>
-                            <section id="section-12" class="ufo--case-study-section p_section p_section--media image "
-                                style=" ">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
 
-                                <div class="ufo--p-container-fluid">
-                                    <div class="media-container image-container--fluid display-mode--grid  " style=" ">
-                                        <div class="media-box  ">
-
-                                            <div class="image">
-                                                <img loading="lazy" src="/files/ideation.png" data-zoom=""
-                                                    alt="Sorting freelancer insights, behaviours, and feedback in order to identify key user needs, patterns and core product features."
-                                                    width="2628" height="1521" class="medium-zoom-image">
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/sitemap-audiobook.jpg" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
                                             </div>
-
                                         </div>
+                                    </div>
+                                </section>
+                            </section>
+
+
+                            <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 90px;  padding-bottom: 10px;">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">User Flow</h3>
+                                            <p>According to the site map, the user flow was designed to determine how the user moves in the program.</p>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
+
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
+
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/userflow-audiobook.jpg" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
                             </section>
 
 
 
 
+                            <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 90px;  padding-bottom: 10px;">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">Paper Wireframes</h3>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
 
-                            <section id="section-4" class="ufo--case-study-section p_section p_section--header "
-                                style="background-color: #fd7646;   ">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
+
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/user-journey-audiobook.png" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </section>
+
+
+
+
+                            <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 90px;  padding-bottom: 10px;">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">Wireframe</h3>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
+
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
+
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/wireframe-audiobook.jpg" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </section>
+
+
+
+                            <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 90px;  padding-bottom: 10px;">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">Usability Test</h3>
+                                            <p>I did a usability test to see if my suggested solutions to users' pain points were resolved.</p>
+                                            <p>Summary of results:</p>
+                                            <p>• Users were able to perform all the tasks I assigned to them.</p>
+                                            <p>• 1 user mentioned that he thinks seeing the book play timeline on all pages is visible.</p>
+                                            <p>• 1 user mentioned that it is a good idea to suggest trending topics on the search page as a recommendation.</p>
+                                            <p>Improvements:</p>
+                                            <p>• We put the bookmark option on the cover of each book to make it easier to bookmark books.</p>
+                                            <p>• In the page related to the player, we put options such as download and speed of 2X and 5X.</p>
+                                            <p>• This round of testing was definitive in testing my designs and continuing to steer them in the right direction. A quote from a tested user that stood out, "This is very interesting" was really prominent.</p>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
+
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
+
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/test-audiobook.jpg" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </section>
+
+
+                            <section id="section-8" class="ufo--case-study-section p_section p_section--text"
+                                    style="padding-top: 90px;  padding-bottom: 10px;">
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">High-fidelity Prototype</h3>
+                                            <p>The high-fidelity prototype provided cleaner user streams for the App.</p>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section id="section-9"
+                                    class="ufo--case-study-section p_section p_section--media image "
+                                    style="padding-top: 0px; ">
+
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="media-container image-container--fluid display-mode--grid  "
+                                            style="padding-top: 0; ">
+                                            <div class="media-box  ">
+
+                                                <div class="image">
+                                                    <img loading="lazy" src="/files/prototype-audiobook.jpg" data-zoom=""
+                                                        alt="Notch" width="2412" height="669" class="medium-zoom-image">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </section>
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+                            <section id="section-4" class="ufo--case-study-section p_section p_section--header " style="background-color: #2EB6CE;   ">
 
                                 <div class="ufo--p-container-fluid">
                                     <div class="image-container image-container--fluid ">
@@ -417,8 +695,8 @@
                                 <div class="text-container">
                                     <div class="ufo--basic-text-area">
                                         <div class="h2" style="color: white">
-                                            3. Design<br><br>Crat designs that deliver value & guide users to their
-                                            goals
+                                            4. Feedback<br><br>The last step in the design process to validate the product.
+Experiments designed to confirm or reject suggested solutions.
                                         </div>
                                     </div>
                                 </div>
@@ -426,129 +704,66 @@
                             </section>
 
 
-                            <section id="section-11" class="ufo--case-study-section p_section p_section--text"
-                                style="padding-top: 90px;  padding-bottom: 40px;">
-
-                                <div class="ufo--p-container-fluid">
-                                    <div class="text-container">
-                                        <h3 style="color: #fd7646">User Flow</h3>
-                                    </div>
-                                </div>
-
-                            </section>
-                            <section id="section-12" class="ufo--case-study-section p_section p_section--media image " style="">
-
-                                <div class="ufo--p-container-fluid">
-                                    <div class="media-container image-container--fluid display-mode--grid  " style="">
-                                        <div class="media-box  ">
-
-                                            <div class="image">
-                                                <img loading="lazy" src="/files/user-flow.png" data-zoom=""
-                                                    alt="Sorting freelancer insights, behaviours, and feedback in order to identify key user needs, patterns and core product features."
-                                                    width="2628" height="1521" class="medium-zoom-image">
-                                            </div>
-
-                                        </div>
-                            </section>
 
 
+        
 
-
-
-
-
-
-                            <section id="section-11" class="ufo--case-study-section p_section p_section--text"
-                                style="padding-top: 90px;  padding-bottom: 40px;">
-
-                                <div class="ufo--p-container-fluid">
-                                    <div class="text-container">
-                                        <h3 style="color: #fd7646">Paper Wireframes</h3>
-                                    </div>
-                                </div>
-
-                            </section>
-                            <section id="section-12" class="ufo--case-study-section p_section p_section--media image "
-                                style=" ">
-
-                                <div class="ufo--p-container-fluid">
-                                    <div class="media-container image-container--fluid display-mode--grid  " style=" ">
-                                        <div class="media-box  ">
-
-                                            <div class="image">
-                                                <img loading="lazy" src="/files/sketch.jpg" data-zoom=""
-                                                    alt="Sorting freelancer insights, behaviours, and feedback in order to identify key user needs, patterns and core product features."
-                                                    width="2628" height="1521" class="medium-zoom-image">
-                                            </div>
-
-                                        </div>
-                            </section>
 
 
 
                             <section id="section-5" class="ufo--case-study-section p_section p_section--text"
-                                style="padding-top: 140px;  padding-bottom: 0px;">
+                                    style="padding-top: 140px;  padding-bottom: 0px;">
 
-                                <div class="ufo--p-container-fluid">
-                                    <div class="text-container">
-                                        <h3 style="color: #fd7646">Digital Wireframes</h3>
-                                        <p>As the initial design phase continued, I made sure to base screen designs on
-                                            feedback and findings from the user research.
-
-                                            Easy checkout with saved address was a key user need to address in the
-                                            designs in addition to equipping the app to work with assistive
-                                            technologies.</p>
-                                    </div>
-                                </div>
-
-                            </section>
-                            <section id="section-6" class="ufo--case-study-section p_section p_section--media image "
-                                style="padding-top: 40px; ">
-
-                                <div class="ufo--p-container-fluid">
-                                    <div class="media-container image-container--fluid display-mode--grid  "
-                                        style="padding-top: 0; ">
-                                        <div class="media-box  ">
-
-                                            <div class="image">
-                                                <img loading="lazy"
-                                                    src="/files/digital-wireframe-dood-food-golchoubian.jpg"
-                                                    data-zoom=""
-                                                    alt="Snippet of secondary user research - analysing 26 freelancer interviews. Full table can be viewed in my Notion!"
-                                                    width="2376" height="850" class="medium-zoom-image">
-                                            </div>
+                                    <div class="ufo--p-container-fluid">
+                                        <div class="text-container">
+                                            <h3 style="color: #2EB6CE">User Testing</h3>
+                                            <p>After prototype preparation, interactive experiments were performed. User test participants had no major problems with the tasks at hand and were able to perform all tasks quickly.
+                                            <p>5 users 5 tasks</p>
+                                            <p>The user tasks requested to perform are:</p>
+                                            <p>• Find the book you want.
+</p>
+                                            <p>• Check information about the book.
+</p>
+                                            <p>• Bookmark the book and find it again in the library.
+</p>
+                                            <P>• Manage the player.</p>
+                                            <P>• Check the latest books listed.</p>
+                                            <P>Summary of results: 100% success - Rate: 5.5</p>
                                         </div>
-                            </section>
-
-
-                            <section id="section-5" class="ufo--case-study-section p_section p_section--text"
-                                style="padding-top: 140px;  padding-bottom: 0px;">
-
-                                <div class="ufo--p-container-fluid">
-                                    <div class="text-container">
-                                        <h3 style="color: #fd7646">High-fidelity Prototype</h3>
-                                        <p>The final high-fidelity prototype presented cleaner user flows for Joe’s app
-                                            and checkout.</p>
                                     </div>
-                                </div>
+                                </section>
 
-                            </section>
-                            <section id="section-6" class="ufo--case-study-section p_section p_section--media image "
-                                style="padding-top: 40px; ">
+              
 
-                                <div class="ufo--p-container-fluid">
-                                    <div class="media-container image-container--fluid display-mode--grid  "
-                                        style="padding-top: 0; ">
-                                        <div class="media-box  ">
 
-                                            <div class="image">
-                                                <img loading="lazy" src="/files/High-fidelity-prototype.jpg"
-                                                    data-zoom=""
-                                                    alt="Snippet of secondary user research - analysing 26 freelancer interviews. Full table can be viewed in my Notion!"
-                                                    width="2376" height="850" class="medium-zoom-image">
-                                            </div>
-                                        </div>
-                            </section>
+
+
+
+
+
+
+
+
+
+
+                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           
+
+                           
                         </div>
                     </section>
                 </div>
