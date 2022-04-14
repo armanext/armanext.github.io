@@ -16,7 +16,7 @@
             <div class="ufo--about-content">
 
                     <div class="about-picture">
-                        <img src="/files/colors.jpg">
+                        <img src="/files/arman-golchoubian.jpg">
                     </div>
 
                 <div class="about-text ">

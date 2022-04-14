@@ -216,7 +216,7 @@ Retired) and completely different ages to receive in-depth qualitative responses
                                             <div class="media-box  ">
 
                                                 <div class="image">
-                                                    <img loading="lazy" src="/files/interview.png" data-zoom=""
+                                                    <img loading="lazy" src="/files/interview-audiobook.jpg" data-zoom=""
                                                         alt="Snippet of secondary user research - analysing 26 freelancer interviews. Full table can be viewed in my Notion!"
                                                         width="2376" height="850" class="medium-zoom-image">
                                                 </div>
